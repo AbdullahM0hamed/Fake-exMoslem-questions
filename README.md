@@ -6,7 +6,7 @@ This was inspired by the question: "How many rakat in surah fatihah"
 
 ## How to install
 
-To install this, you must first have `python` and `pip` on your system, and run: `pip install -U git+https://github.com/AbdullahM0hamed/Fake-exMoslem-Questioner#egg=fake-exmoslen-questioner`
+To install this, you must first have `python` and `pip` on your system, and run: `pip install -U git+https://github.com/AbdullahM0hamed/Fake-exMoslem-Questions`
 
 ## Usage
-`fake
+`fake-question`
